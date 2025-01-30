@@ -38,5 +38,5 @@ Output :
 
 ![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%209.png)
 
-![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%210.png)
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/ba77890dd9c27bdeeda5d5ac2010aef4bf21b268/Output/Output%2010.png)
 
