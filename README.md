@@ -21,3 +21,21 @@ Technologies Used: HTML , CSS & JAVASCRIPT
 Output : 
 
 ![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%201.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%202.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%203.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%204.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%205.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%206.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%207.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%208.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%209.png)
+
+![image alt](https://github.com/ayushmoudekar/Taste-Junction/blob/1b3e5af0b5bf9d4f0dbe7331b1c85ccd25f85608/Output/Output%210.png)
